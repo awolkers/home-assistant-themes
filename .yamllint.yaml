@@ -2,3 +2,8 @@ extends: default
 
 yaml-files:
   - "themes/*.yaml"
+
+rules:
+  document-start:
+    level: warning
+    present: false
