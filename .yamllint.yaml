@@ -9,4 +9,4 @@ rules:
     present: false
   line-length:
     level: warning
-    max: 70
+    max: 120
