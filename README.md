@@ -2,7 +2,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
 # Dark theme pack for Home Assistant
-A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the [frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include themes within Home Assistant or read the instructions below. The dark theme comes in five colors:
+A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the [frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include themes within Home Assistant or read the instructions below.
 
 * [Themes](#themes)
     * [Dark Blue](#dark-blue)
@@ -15,6 +15,7 @@ A collection of dark themes for [Home Assistant](https://www.home-assistant.io/)
     * [Manual](#manual)
 
 ## Themes
+The dark theme comes in these five colors.
 
 ### Dark Blue
 ![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_blue.png)
