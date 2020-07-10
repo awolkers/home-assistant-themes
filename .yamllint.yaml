@@ -1,0 +1,4 @@
+extends: default
+
+yaml-files:
+  - "themes/*.yaml"
