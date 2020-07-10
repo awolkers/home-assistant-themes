@@ -18,19 +18,19 @@ A collection of dark themes for [Home Assistant](https://www.home-assistant.io/)
 The dark theme comes in these five colors.
 
 ### Dark Blue
-![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_blue.png)
+![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/docs/dark_blue.png)
 
 ### Dark Green
-![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_green.png)
+![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/docs/dark_green.png)
 
 ### Dark Turqoise
-![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_turqoise.png)
+![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/docs/dark_turqoise.png)
 
 ### Dark Orange
-![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_orange.png)
+![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/docs/dark_orange.png)
 
 ### Dark Yellow
-![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/examples/dark_yellow.png)
+![alt text](https://raw.githubusercontent.com/awolkers/home-assistant-themes/master/docs/dark_yellow.png)
 
 ## Installation
 
