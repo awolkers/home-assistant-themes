@@ -43,13 +43,13 @@ frontend:
   ... # your configuration.
 ```
 
-### HACS (comming soon...)
+### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
-4. Press `Install`.
-6. Go to services and trigger the `frontend.reload_themes` service.
+2. Click the + icon to add a repository.
+3. Search for `Dark theme pack for Home Assistant`.
+4. Click and press `Install`.
+5. Go to services and trigger the `frontend.reload_themes` service.
 
 ### Manual
 
