@@ -1,4 +1,4 @@
-[![Build Status](https://www.travis-ci.org/awolkers/home-assistant-themes.svg?branch=master)](https://www.travis-ci.org/awolkers/home-assistant-themes)
+[![Build Status](https://travis-ci.com/awolkers/home-assistant-themes.svg?branch=master)](https://travis-ci.com/awolkers/home-assistant-themes)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
 # Dark theme pack for Home Assistant
