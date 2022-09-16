@@ -10,6 +10,7 @@ A collection of dark themes for [Home Assistant](https://www.home-assistant.io/)
     * [Dark Turqoise](#dark-turqoise)
     * [Dark Orange](#dark-orange)
     * [Dark Yellow](#dark-yellow)
+    * Dark Red
 * [Installation](#installation)
     * [HACS](#hacs)
     * [Manual](#manual)
