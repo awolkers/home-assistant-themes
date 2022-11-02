@@ -1,13 +1,14 @@
 Dark Blue:
   ha-card-background: "#4d5052"
   ha-card-border-radius: 3px
+  ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#00A0E2"
   light-primary-color: "#19BAFF"
   graph-color: var(--primary-color)
   primary-background-color: "#3c3f40"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#434647"
   divider-color: "#292a2e"
   disabled-color: "#666666"
   lovelace-background: "#303632"
@@ -54,16 +55,37 @@ Dark Blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  mdc-text-field-fill-color: var(--secondary-background-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-text-field-label-ink-color: var(--primary-color)
+  input-fill-color: var(--primary-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-disabled-label-ink-color: var(--disabled-text-color)
+  input-idle-line-color: var(--divider-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-hover-line-color: var(--primary-color)
+  code-editor-background-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-color)
+
 Dark Green:
   ha-card-background: "#4e524f"
   ha-card-border-radius: 3px
+  ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#27ae61"
   light-primary-color: "#50FA9A"
   graph-color: var(--primary-color)
   primary-background-color: "#39403c"
-  secondary-background-color: "#48514c"
+  secondary-background-color: "#404743"
   divider-color: "#292a2e"
   disabled-color: "#666666"
   lovelace-background: "#303632"
@@ -110,16 +132,37 @@ Dark Green:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  mdc-text-field-fill-color: var(--secondary-background-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-text-field-label-ink-color: var(--primary-color)
+  input-fill-color: var(--primary-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-disabled-label-ink-color: var(--disabled-text-color)
+  input-idle-line-color: var(--divider-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-hover-line-color: var(--primary-color)
+  code-editor-background-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-color)
+
 Dark Orange:
   ha-card-background: "#524f4d"
   ha-card-border-radius: 3px
+  ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#E77E23"
   light-primary-color: "#FF9940"
   graph-color: var(--primary-color)
   primary-background-color: "#403e3c"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#474543"
   divider-color: "#292a2e"
   disabled-color: "#666666"
   lovelace-background: "#303632"
@@ -166,16 +209,37 @@ Dark Orange:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  mdc-text-field-fill-color: var(--secondary-background-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-text-field-label-ink-color: var(--primary-color)
+  input-fill-color: var(--primary-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-disabled-label-ink-color: var(--disabled-text-color)
+  input-idle-line-color: var(--divider-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-hover-line-color: var(--primary-color)
+  code-editor-background-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-color)
+
 Dark Turqoise:
   ha-card-background: "#4d5152"
   ha-card-border-radius: 3px
+  ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#00BCD4"
   light-primary-color: "#19E4FF"
   graph-color: var(--primary-color)
   primary-background-color: "#3c3f40"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#434647"
   divider-color: "#292a2e"
   disabled-color: "#666666"
   lovelace-background: "#303632"
@@ -222,16 +286,37 @@ Dark Turqoise:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  mdc-text-field-fill-color: var(--secondary-background-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-text-field-label-ink-color: var(--primary-color)
+  input-fill-color: var(--primary-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-disabled-label-ink-color: var(--disabled-text-color)
+  input-idle-line-color: var(--divider-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-hover-line-color: var(--primary-color)
+  code-editor-background-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-color)
+
 Dark Yellow:
   ha-card-background: "#52514d"
   ha-card-border-radius: 3px
+  ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#e5ba0e"
   light-primary-color: "#FFD429"
   graph-color: var(--primary-color)
   primary-background-color: "#403f3c"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#474643"
   divider-color: "#292a2e"
   disabled-color: "#666666"
   lovelace-background: "#303632"
@@ -277,3 +362,23 @@ Dark Yellow:
   table-row-background-color: var(--divider-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
+
+  mdc-text-field-fill-color: var(--secondary-background-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-select-fill-color: var(--secondary-background-color)
+  mdc-text-field-label-ink-color: var(--primary-color)
+  input-fill-color: var(--primary-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--primary-text-color)
+  input-disabled-fill-color: var(--secondary-background-color)
+  input-disabled-ink-color: var(--disabled-text-color)
+  input-disabled-label-ink-color: var(--disabled-text-color)
+  input-idle-line-color: var(--divider-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-hover-line-color: var(--primary-color)
+  code-editor-background-color: var(--secondary-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--divider-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--primary-color)
