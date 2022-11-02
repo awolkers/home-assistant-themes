@@ -1,5 +1,6 @@
 Dark Blue:
-  ha-card-border-radius: 2px
+  ha-card-background: "#4d5052"
+  ha-card-border-radius: 3px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#00A0E2"
@@ -9,6 +10,7 @@ Dark Blue:
   secondary-background-color: var(--primary-background-color)
   divider-color: "#292a2e"
   disabled-color: "#666666"
+  lovelace-background: "#303632"
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -35,7 +37,7 @@ Dark Blue:
   label-badge-text-color: var(--primary-text-color)
   label-badge-red: var(--light-primary-color)
 
-  paper-card-background-color: "#4d5052"
+  paper-card-background-color: var(--ha-card-background)
   paper-listbox-background-color: var(--primary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
@@ -53,16 +55,18 @@ Dark Blue:
   card-background-color: var(--primary-background-color)
 
 Dark Green:
-  ha-card-border-radius: 2px
+  ha-card-background: "#4e524f"
+  ha-card-border-radius: 3px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#27ae61"
   light-primary-color: "#50FA9A"
   graph-color: var(--primary-color)
   primary-background-color: "#39403c"
-  secondary-background-color: var(--primary-background-color)
+  secondary-background-color: "#48514c"
   divider-color: "#292a2e"
   disabled-color: "#666666"
+  lovelace-background: "#303632"
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -89,7 +93,7 @@ Dark Green:
   label-badge-text-color: var(--primary-text-color)
   label-badge-red: var(--light-primary-color)
 
-  paper-card-background-color: "#4e524f"
+  paper-card-background-color: var(--ha-card-background)
   paper-listbox-background-color: var(--primary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
@@ -107,7 +111,8 @@ Dark Green:
   card-background-color: var(--primary-background-color)
 
 Dark Orange:
-  ha-card-border-radius: 2px
+  ha-card-background: "#524f4d"
+  ha-card-border-radius: 3px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#E77E23"
@@ -117,6 +122,7 @@ Dark Orange:
   secondary-background-color: var(--primary-background-color)
   divider-color: "#292a2e"
   disabled-color: "#666666"
+  lovelace-background: "#303632"
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -143,7 +149,7 @@ Dark Orange:
   label-badge-text-color: var(--primary-text-color)
   label-badge-red: var(--light-primary-color)
 
-  paper-card-background-color: "#524f4d"
+  paper-card-background-color: var(--ha-card-background)
   paper-listbox-background-color: var(--primary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
@@ -161,7 +167,8 @@ Dark Orange:
   card-background-color: var(--primary-background-color)
 
 Dark Turqoise:
-  ha-card-border-radius: 2px
+  ha-card-background: "#4d5152"
+  ha-card-border-radius: 3px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#00BCD4"
@@ -171,6 +178,7 @@ Dark Turqoise:
   secondary-background-color: var(--primary-background-color)
   divider-color: "#292a2e"
   disabled-color: "#666666"
+  lovelace-background: "#303632"
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -197,7 +205,7 @@ Dark Turqoise:
   label-badge-text-color: var(--primary-text-color)
   label-badge-red: var(--light-primary-color)
 
-  paper-card-background-color: "#4d5152"
+  paper-card-background-color: var(--ha-card-background)
   paper-listbox-background-color: var(--primary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
@@ -215,7 +223,8 @@ Dark Turqoise:
   card-background-color: var(--primary-background-color)
 
 Dark Yellow:
-  ha-card-border-radius: 2px
+  ha-card-background: "#52514d"
+  ha-card-border-radius: 3px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
   primary-color: "#e5ba0e"
@@ -225,6 +234,7 @@ Dark Yellow:
   secondary-background-color: var(--primary-background-color)
   divider-color: "#292a2e"
   disabled-color: "#666666"
+  lovelace-background: "#303632"
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -251,7 +261,7 @@ Dark Yellow:
   label-badge-text-color: var(--primary-text-color)
   label-badge-red: var(--light-primary-color)
 
-  paper-card-background-color: "#52514d"
+  paper-card-background-color: var(--ha-card-background)
   paper-listbox-background-color: var(--primary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
