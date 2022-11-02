@@ -1,6 +1,7 @@
 Dark Blue:
   ha-card-background: "#4d5052"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
@@ -78,6 +79,7 @@ Dark Blue:
 Dark Green:
   ha-card-background: "#4e524f"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
@@ -155,6 +157,7 @@ Dark Green:
 Dark Orange:
   ha-card-background: "#524f4d"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
@@ -232,6 +235,7 @@ Dark Orange:
 Dark Pink:
   ha-card-background: "#524f4d"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
@@ -255,6 +259,7 @@ Dark Pink:
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
+  app-header-background-color: var(--primary-color)
 
   state-icon-color: var(--primary-color)
   state-icon-active-color: "#ffdd00"
@@ -309,6 +314,7 @@ Dark Pink:
 Dark Turqoise:
   ha-card-background: "#4d5152"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
@@ -386,6 +392,7 @@ Dark Turqoise:
 Dark Yellow:
   ha-card-background: "#52514d"
   ha-card-border-radius: 3px
+  ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
