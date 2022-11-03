@@ -21,7 +21,7 @@ Dark Blue:
 
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
-  sidebar-background-color: "#323536"
+  sidebar-background-color: "#323436"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
@@ -177,7 +177,7 @@ Dark Orange:
 
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
-  sidebar-background-color: "#363332"
+  sidebar-background-color: "#363432"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
@@ -255,7 +255,7 @@ Dark Pink:
 
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
-  sidebar-background-color: "#363332"
+  sidebar-background-color: "#363233"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
@@ -412,7 +412,7 @@ Dark Yellow:
 
   sidebar-icon-color: var(--primary-color)
   sidebar-text-color: var(--primary-text-color)
-  sidebar-background-color: "#363432"
+  sidebar-background-color: "#363532"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
