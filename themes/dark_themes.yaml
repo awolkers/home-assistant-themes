@@ -8,11 +8,11 @@ Dark Blue:
   primary-color: "#00A0E2"
   light-primary-color: "#19BAFF"
   graph-color: var(--primary-color)
-  primary-background-color: "#3c3f40"
+  primary-background-color: "#3a3c3d"
   secondary-background-color: "#434647"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -86,11 +86,11 @@ Dark Green:
   primary-color: "#27ae61"
   light-primary-color: "#50FA9A"
   graph-color: var(--primary-color)
-  primary-background-color: "#39403c"
+  primary-background-color: "#343b37"
   secondary-background-color: "#404743"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -164,11 +164,11 @@ Dark Orange:
   primary-color: "#E77E23"
   light-primary-color: "#FF9940"
   graph-color: var(--primary-color)
-  primary-background-color: "#403e3c"
+  primary-background-color: "#3b3937"
   secondary-background-color: "#474543"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -233,7 +233,7 @@ Dark Orange:
   mdc-select-hover-line-color: var(--primary-color)
 
 Dark Pink:
-  ha-card-background: "#524f4d"
+  ha-card-background: "#524d4e"
   ha-card-border-radius: 3px
   ha-config-card-border-radius: var(--ha-card-border-radius)
   ha-card-border-width: 0px
@@ -242,11 +242,11 @@ Dark Pink:
   primary-color: "#ff6397"
   light-primary-color: "#ff78a5"
   graph-color: var(--primary-color)
-  primary-background-color: "#403e3c"
+  primary-background-color: "#3b3738"
   secondary-background-color: "#474543"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -321,11 +321,11 @@ Dark Turqoise:
   primary-color: "#00BCD4"
   light-primary-color: "#19E4FF"
   graph-color: var(--primary-color)
-  primary-background-color: "#3c3f40"
+  primary-background-color: "#373a3b"
   secondary-background-color: "#434647"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
@@ -399,11 +399,11 @@ Dark Yellow:
   primary-color: "#e5ba0e"
   light-primary-color: "#FFD429"
   graph-color: var(--primary-color)
-  primary-background-color: "#403f3c"
+  primary-background-color: "#3b3a37"
   secondary-background-color: "#474643"
   divider-color: "#292a2e"
   disabled-color: "#666666"
-  lovelace-background: "#303632"
+  lovelace-background: var(--primary-background-color)
 
   primary-text-color: "#FBFBFB"
   secondary-text-color: var(--primary-color)
