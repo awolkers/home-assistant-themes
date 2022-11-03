@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/awolkers/home-assistant-themes)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/awolkers/home-assistant-themes)
 
-# Dark theme pack for Home Assistant
+# Dark Theme Pack for Home Assistant
 
 A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the [frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include themes within Home Assistant or read the instructions below.
 

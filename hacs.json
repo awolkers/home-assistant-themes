@@ -1,5 +1,5 @@
 {
-    "name": "Dark theme pack for Home Assistant",
-    "render_readme": true,
-    "filename": "dark_themes.yaml"
-  }
+  "name": "Dark Theme Pack for Home Assistant",
+  "render_readme": true,
+  "filename": "dark_themes.yaml"
+}
