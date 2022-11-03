@@ -118,7 +118,7 @@ Dark Green:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  -background-color: var(--secondary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -259,7 +259,6 @@ Dark Pink:
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--primary-text-color)
-  app-header-background-color: var(--primary-color)
 
   state-icon-color: var(--primary-color)
   state-icon-active-color: "#ffdd00"
