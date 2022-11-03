@@ -40,7 +40,7 @@ Dark Blue:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -118,7 +118,7 @@ Dark Green:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  -background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -196,7 +196,7 @@ Dark Orange:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -275,7 +275,7 @@ Dark Pink:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -353,7 +353,7 @@ Dark Turqoise:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
@@ -431,7 +431,7 @@ Dark Yellow:
   label-badge-red: var(--light-primary-color)
 
   paper-card-background-color: var(--ha-card-background)
-  paper-listbox-background-color: var(--primary-background-color)
+  paper-listbox-background-color: var(--secondary-background-color)
 
   paper-toggle-button-checked-button-color: var(--primary-color)
   paper-toggle-button-checked-bar-color: var(--light-primary-color)
