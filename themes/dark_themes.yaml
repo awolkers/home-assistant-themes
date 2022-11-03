@@ -56,6 +56,9 @@ Dark Blue:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
+
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-select-fill-color: var(--secondary-background-color)
@@ -133,6 +136,9 @@ Dark Green:
   table-row-background-color: var(--divider-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
+
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
 
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
@@ -212,6 +218,9 @@ Dark Orange:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
+
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-select-fill-color: var(--secondary-background-color)
@@ -289,6 +298,9 @@ Dark Pink:
   table-row-background-color: var(--divider-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
+
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
 
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
@@ -368,6 +380,9 @@ Dark Turqoise:
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
 
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
+
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-select-fill-color: var(--secondary-background-color)
@@ -445,6 +460,9 @@ Dark Yellow:
   table-row-background-color: var(--divider-color)
   table-row-alternative-background-color: var(--secondary-background-color)
   card-background-color: var(--primary-background-color)
+
+  ha-dialog-border-radius: var(--ha-card-border-radius)
+  mdc-theme-surface: var(--ha-card-background)
 
   mdc-text-field-fill-color: var(--secondary-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
