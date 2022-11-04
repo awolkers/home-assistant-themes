@@ -1,6 +1,6 @@
 # Dark theme pack for Home Assistant
 
-[![Build Status](https://travis-ci.com/awolkers/home-assistant-themes.svg?branch=master)](https://travis-ci.com/awolkers/home-assistant-themes)
+[![Code linting](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml/badge.svg)](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 
 A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the
