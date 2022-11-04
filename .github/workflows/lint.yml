@@ -1,4 +1,4 @@
-name: Yaml Lint
+name: Lint code base
 
 on:
   push:
@@ -10,7 +10,6 @@ on:
 
 jobs:
   linting:
-    name: "Lint code base"
     runs-on: ubuntu-latest
     steps:
       - name: Check out code from GitHub
