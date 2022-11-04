@@ -1,4 +1,4 @@
-# Dark Theme Pack for Home Assistant
+# Dark Theme Pack for Home Assistanthh
 
 [![Code linting](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml/badge.svg)](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
