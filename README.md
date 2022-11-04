@@ -13,21 +13,7 @@ themes within Home Assistant or read the instructions below.
 > If you like this theme please [star](https://github.com/awolkers/home-assistant-themes) the repo. Also let me know
 > if something is broken or missing by creating an issue [here](https://github.com/awolkers/home-assistant-themes/issues/new).
 
-## Table of Contents
-
-- [Themes](#themes)
-  - [Dark Blue](#dark-blue)
-  - [Dark Green](#dark-green)
-  - [Dark Orange](#dark-orange)
-  - [Dark Pink](#dark-pink)
-  - [Dark Turqoise](#dark-turqoise)
-  - [Dark Yellow](#dark-yellow)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [HACS](#hacs)
-  - [Manual](#manual)
-
-## Themes
+## Colors
 
 This theme pack comes in the following colors.
 
