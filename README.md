@@ -1,13 +1,27 @@
-# Dark theme pack for Home Assistant
+# Dark Theme Pack for Home Assistant
 
 [![Code linting](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml/badge.svg)](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/awolkers/home-assistant-themes/master)
+![GitHub](https://img.shields.io/github/license/awolkers/home-assistant-themes)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/awolkers/home-assistant-themes)
 
-A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the
-[frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include
+A collection of modern, clean but colorfull themes for the [Home Assistant](https://www.home-assistant.io/) UI. Read the
+[frontend](https://www.home-assistant.io/components/frontend/) documentation below for more information on how to include
 themes within Home Assistant or read the instructions below.
 
+> If you like this theme please [star](https://github.com/awolkers/home-assistant-themes) the repo. Also let me know
+> if something is broken or missing by creating an issue [here](https://github.com/awolkers/home-assistant-themes/issues/new).
+
+## Table of Contents
+
 - [Themes](#themes)
+  - [Dark Blue](#dark-blue)
+  - [Dark Green](#dark-green)
+  - [Dark Orange](#dark-orange)
+  - [Dark Pink](#dark-pink)
+  - [Dark Turqoise](#dark-turqoise)
+  - [Dark Yellow](#dark-yellow)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [HACS](#hacs)
@@ -16,13 +30,6 @@ themes within Home Assistant or read the instructions below.
 ## Themes
 
 This theme pack comes in the following colors.
-
-- [Dark Blue](#dark-blue)
-- [Dark Green](#dark-green)
-- [Dark Orange](#dark-orange)
-- [Dark Pink](#dark-pink)
-- [Dark Turqoise](#dark-turqoise)
-- [Dark Yellow](#dark-yellow)
 
 ### Dark Blue
 
