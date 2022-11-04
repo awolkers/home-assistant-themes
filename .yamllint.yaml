@@ -1,7 +1,7 @@
 extends: default
 
 yaml-files:
-  - "themes/*.yaml"
+  - "**/*.yaml"
 
 rules:
   document-start:
