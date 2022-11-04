@@ -20,6 +20,6 @@ jobs:
         with:
           config_file: .yamllint.yaml
       - name: Lint markdown files
-        uses: docker://avtodev/markdown-lint:v1
+        uses: avto-dev/markdown-lint@v1
         with:
           args: "**/*.md"
