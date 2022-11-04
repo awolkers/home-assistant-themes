@@ -1,7 +1,7 @@
+# Dark theme pack for Home Assistant
+
 [![Build Status](https://travis-ci.com/awolkers/home-assistant-themes.svg?branch=master)](https://travis-ci.com/awolkers/home-assistant-themes)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
-
-# Dark theme pack for Home Assistant
 
 A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the [frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include themes within Home Assistant or read the instructions below.
 
