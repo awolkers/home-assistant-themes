@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.com/awolkers/home-assistant-themes.svg?branch=master)](https://travis-ci.com/awolkers/home-assistant-themes)
+# Dark Theme Pack for Home Assistant
+
+[![Code linting](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml/badge.svg)](https://github.com/awolkers/home-assistant-themes/actions/workflows/lint.yml)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/awolkers/home-assistant-themes/master)
 ![GitHub](https://img.shields.io/github/license/awolkers/home-assistant-themes)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/awolkers/home-assistant-themes)
-
-# Dark Theme Pack for Home Assistant
 
 A collection of dark themes for [Home Assistant](https://www.home-assistant.io/). Read the [frontend](https://www.home-assistant.io/components/frontend/) documentation for more information on how to include themes within Home Assistant or read the instructions below.
 
