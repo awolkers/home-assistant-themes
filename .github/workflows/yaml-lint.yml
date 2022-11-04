@@ -1,11 +1,25 @@
 name: Yaml Lint
-on: [push]  # yamllint disable-line rule:truthy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
 jobs:
-  lintAllTheThings:
+  linting:
+    name: "Lint code base"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: yaml-lint
+      - name: Check out code from GitHub
+        uses: actions/checkout@v2
+      - name: Lint yaml files
         uses: ibiqlik/action-yamllint@v3
         with:
           config_file: .yamllint.yaml
+      - name: Lint markdown files
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          args: "**/*.md"
